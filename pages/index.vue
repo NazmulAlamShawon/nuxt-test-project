@@ -161,7 +161,7 @@
       >
         <div class="flex justify-center items-center gap-4 m-2 p-2">
           <div class=" ">
-            <img src="pro.webp" alt="" class="w-16 h-16" />
+            <img src="" alt="" class="w-16 h-16 border-2 rounded-lg" />
           </div>
           <div class="">
             <h2>jhon doe</h2>
@@ -178,7 +178,7 @@
       >
         <div class="flex justify-center items-center gap-4 m-2 p-2">
           <div class=" ">
-            <img src="pro.webp" alt="" class="w-16 h-16" />
+            <img src="" alt="" class="w-16 h-16 rounded-lg border-2" />
           </div>
           <div class="">
             <h2>jhon doe</h2>
@@ -191,11 +191,11 @@
         </div>
       </div>
       <div
-        class="flex justify-center items-center gap-4 p-4 border-2 bg-slate-800 text-white m-3 rounded-lg"
+        class="flex justify-center items-center gap-4 p-4 border-2  bg-slate-800 text-white m-3 rounded-lg"
       >
         <div class="flex justify-center items-center gap-4 m-2 p-2">
           <div class=" ">
-            <img src="pro.webp" alt="" class="w-16 h-16" />
+            <img src="" alt="" class="w-16 h-16 border-2 rounded-lg" />
           </div>
           <div class="">
             <h2>jhon doe</h2>
