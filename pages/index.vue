@@ -174,7 +174,7 @@
         </div>
       </div>
       <div
-        class="flex justify-center items-center gap-3 p-4 gap-4 border-2 bg-slate-800 text-white m-3 rounded-lg"
+        class="flex justify-center items-center p-4 gap-4 border-2 bg-slate-800 text-white m-3 rounded-lg"
       >
         <div class="flex justify-center items-center gap-4 m-2 p-2">
           <div class=" ">
